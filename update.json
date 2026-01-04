@@ -1,0 +1,17 @@
+{
+  "version": "1.1.0",
+  "name": "v1.1.0 - The Performance Update",
+  "notes": "Added Gmail Open Tracking and fixed SQLite concurrency issues.",
+  "pub_date": "2024-05-20T10:00:00Z",
+  "required": false,
+  "platforms": {
+    "windows-x64": {
+      "url": "https://github.com/trinidium/App-updates/releases/download/v1.1.0/EmailAuto_1.1.0_x64.exe",
+      "signature": "sha256_checksum_here"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/trinidium/App-updates/releases/download/v1.1.0/EmailAuto_1.1.0_arm64.dmg",
+      "signature": "sha256_checksum_here"
+    }
+  }
+}
